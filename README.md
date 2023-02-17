@@ -12,3 +12,6 @@ This is the frontend part of the platform that allows consumers to submit demand
 3. Chat with a firm representative
 4. Feedback and ratings system
 
+## How to run it:
+
+Get all the 8 files (4 HTML and 4 CSS) and keep them in the same directory, then open login.html
