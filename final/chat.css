@@ -17,12 +17,6 @@ body {
     padding-bottom: 20px;
   }
   
-  .chat-header h1 {
-    color: #444;
-    font-size: 24px;
-    margin: 0;
-  }
-  
   .chat-box {
     height: 400px;
     overflow-y: scroll;

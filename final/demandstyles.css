@@ -18,7 +18,9 @@ main {
 }
 
 form h2 {
-  border-style:ridge; border-width:5px; border-color:rgb(47, 0, 255); border-radius:72px;
+  border-style:ridge; 
+  border-width:5px; border-color:rgb(47, 0, 255); 
+  border-radius:72px;
   margin-top: 0;
 }
 
@@ -44,23 +46,12 @@ form button {
   cursor: pointer;
 }
 
+form button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
 section h2 {
   margin-top: 0;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  border-bottom: 1px solid #ccc;
-  padding: 10px 0;
-}
-
-button[type="submit"]:hover {
-  background-color: #3e8e41;
 }
 
 a { 
