@@ -7,7 +7,6 @@ This is the frontend part of the platform that allows consumers to submit demand
 
 ## Features:
 
-It has-
 1. User login
 2. Demands/Requests page
 3. Chat with a firm representative
