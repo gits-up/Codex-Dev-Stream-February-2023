@@ -11,26 +11,14 @@ body {
 }
 
 h1 {
+	background-color: hsl(120, 100%, 27%);
+	color: #fff;
+	padding: 20px;
 	text-align: center;
 }
 
 .rating {
 	margin-bottom: 20px;
-}
-
-.stars {
-	display: inline-block;
-}
-
-.star {
-	font-size: 30px;
-	color: #ccc;
-	cursor: pointer;
-}
-
-.star:hover,
-.star.active {
-	color: #ffcc00;
 }
 
 .comments {
@@ -58,12 +46,4 @@ button:hover {
 
 a { 
 	color: inherit; 
-} 
-
-#element1 {
-	display: inline-block; margin-right:100px;
-}
-
-#element2 {
-	display: inline-block;
 } 
